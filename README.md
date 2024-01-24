@@ -21,10 +21,8 @@
 <div>
   <a href="https://github.com/RoodrigoAmaro">
    <img  src="https://github-readme-stats.vercel.app/api?username=RoodrigoAmaro&show_icons=true&theme=tokyonight"/> 
-    <br>
-   <img width="470em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoodrigoAmaro&hide_progress=true"/>
+   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoodrigoAmaro&layout=compact&theme=tokyonight"/>
 </div>
-
 
 
 
