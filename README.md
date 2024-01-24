@@ -20,8 +20,8 @@
  
 <div>
   <a href="https://github.com/RoodrigoAmaro">
-   <img  src="https://github-readme-stats.vercel.app/api?username=RoodrigoAmaro&show_icons=true&theme=tokyonight"/> 
-   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoodrigoAmaro&layout=compact&theme=tokyonight"/>
+   <img width="50%" height="195em" src="https://github-readme-stats.vercel.app/api?username=RoodrigoAmaro&show_icons=true&theme=tokyonight"/> 
+   <img witdh="40%" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoodrigoAmaro&layout=compact&theme=tokyonight"/>
 </div>
 
 
